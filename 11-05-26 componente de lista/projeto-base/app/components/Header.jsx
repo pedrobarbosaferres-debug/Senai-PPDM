@@ -13,7 +13,7 @@ export default function Header({titulo})
 
 const estilos = StyleSheet.create({
     container:{
-        backgroundColor: '#08a01f',
+        backgroundColor: '#9c0852',
         paddingVertical: 20,
         paddingHorizontal: 16,
         alignItems: 'center'
@@ -22,12 +22,12 @@ const estilos = StyleSheet.create({
     titulo:{
         fontSize: 24,
         fontWeight: 700,
-        color: '#e06767',
+        color: '#b7db33',
     },
 
     subtitulo:{
         fontSize: 14,
-        color: '#3c01ff'
+        color: '#0ceeee'
     }
 
 })
